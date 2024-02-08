@@ -1,0 +1,56 @@
+/* By EletrixTime :) */
+body{
+    background: rgb(110,129,252);
+    background: linear-gradient(180deg, rgba(110,129,252,1) 0%, rgba(253,91,125,1) 82%, rgba(252,91,125,1) 100%);
+    background: rgb(10,6,69);
+background: linear-gradient(90deg, rgba(10,6,69,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+cool{
+    color: rgb(255, 0, 0);
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+mark{
+    color : black;
+    background-color: beige;
+
+}
+p{
+    color: rgb(255, 255, 255);
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+.mini {
+    font-size: 0.8em; /* ajuste la taille de la police selon tes besoins */
+  }
+.BIG2 {
+    font-size: 3em; /* ajuste la taille de la police selon tes besoins */
+  }
+.BIG3 {
+    font-size: 1.1em; /* ajuste la taille de la police selon tes besoins */
+  }
+  
+button{
+    color: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(110,129,252,1) 0%, rgba(253,91,125,1) 82%, rgba(252,91,125,1) 100%);
+    border-radius: 50px;
+}
+/** LOGO **/
+.logo{
+    border-radius: 5px;
+}
+
+greentext{
+    color: rgb(0, 255, 98);
+    font: 0.9rem "Fira Sans", sans-serif;
+}
+a{
+    color:black;
+    font: 1rem "Fira Sans", sans-serif
+}
+.carre {
+    width  : 590px;
+    height : 150px;
+    background: linear-gradient(180deg, rgba(110,129,252,1) 0%, rgba(253,91,125,1) 82%, rgba(252,91,125,1) 100%);
+
+    border-radius: 50px;
+  }
