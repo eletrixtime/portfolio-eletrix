@@ -1,7 +1,0 @@
-.grid-background {
-    display: grid;
-    height: 100vh; /* Ajustez la hauteur selon vos besoins */
-    background-image: linear-gradient(to right, #ccc 1px, transparent 1px),
-                      linear-gradient(to bottom, #ccc 1px, transparent 1px);
-    background-size: 20px 20px; /* Ajustez la taille des cases de la grille */
-  }
