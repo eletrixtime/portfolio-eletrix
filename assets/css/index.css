@@ -1,0 +1,19 @@
+body{
+    background-color: #22223a;
+    font: 1.2rem "Fira Sans", sans-serif;
+    
+}
+.title{
+    font-size: 3em;
+}
+.title_2{
+    font-size: 30px;
+}
+.round{
+    border-radius: 5em;
+
+    
+}
+p{
+    font-size: 20px;
+}
